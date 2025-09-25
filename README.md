@@ -1,4 +1,4 @@
-# 🍔 Food Ordering System (Mini Project in C++)
+#  Food Ordering System (Mini Project in C++)
 This is a simple **food ordering system** built with **C++ and Object-Oriented Programming (OOP)** concepts.  
 It demonstrates file handling, classes, inheritance, constructors, and polymorphism.
 ---
