@@ -10,7 +10,7 @@ It demonstrates file handling, classes, inheritance, constructors, and polymorph
 - 👨‍💼 Deliveryman details using inheritance & polymorphism
 ---
 ## Contributors
-- @salin26
+- @Salin26
 - @mubiny87
 
 ## 📂 Project Structure
